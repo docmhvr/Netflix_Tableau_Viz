@@ -41,6 +41,6 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Project Link: [https://github.com/yourusername/netflix-dashboard](https://github.com/yourusername/netflix-dashboard)
+Project Link: [https://github.com/docmhvr/netflix-dashboard](https://github.com/yourusername/netflix-dashboard)
 
 Thank you for checking out the Netflix Dashboard! If you have any questions or feedback, feel free to reach out. Happy analyzing!
